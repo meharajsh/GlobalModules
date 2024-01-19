@@ -1,0 +1,16 @@
+{
+    "name":"GlobalModules",
+    "version":"0.1.1",
+    "main":"GlobalModules",
+    "repository":{
+      "type":"git",
+      "url":"https://github.com/meharajsh/GlobalModules"
+    },
+    "keywords":[
+      "calc","calcpsk","psk"
+    ],
+    "dependencies":{},
+    "engines":{
+      "node":"*"
+    }
+}
